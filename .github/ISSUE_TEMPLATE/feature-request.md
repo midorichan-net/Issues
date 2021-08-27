@@ -3,7 +3,7 @@ name: 機能提案/Feature Request
 about: Projectへの機能提案はこちらのテンプレートから
 title: ''
 labels: Feature Request
-assignees: ''
+assignees: midorichaan
 
 ---
 
