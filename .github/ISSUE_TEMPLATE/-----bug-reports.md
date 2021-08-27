@@ -3,7 +3,7 @@ name: バグ報告/Bug Reports
 about: バグ報告はこちらのテンプレートから
 title: ''
 labels: Bug
-assignees: ''
+assignees: midorichaan
 
 ---
 
