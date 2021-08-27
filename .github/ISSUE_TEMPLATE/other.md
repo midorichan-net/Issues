@@ -3,7 +3,7 @@ name: その他/Other
 about: その他のIssueはこちらから
 title: ''
 labels: ''
-assignees: ''
+assignees: midorichaan
 
 ---
 
